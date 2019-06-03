@@ -1,88 +1,93 @@
-/* =============================================================================
-   Media Queries
-   ========================================================================== */
-@media only screen and (max-width: 1024px) {
-    .wrapper {
-        width: 100%;
-        padding: 0 20px;
-        -moz-box-sizing: border-box;
-        -ms-box-sizing: border-box;
-        -webkit-box-sizing: border-box;
-        box-sizing: border-box;
+    /* =============================================================================
+      Media Queries
+      ========================================================================== */
+   @media only screen and (max-width: 1024px) {
+       .wrapper {
+           width: 100%;
+           padding: 0 20px;
+           -moz-box-sizing: border-box;
+           -ms-box-sizing: border-box;
+           -webkit-box-sizing: border-box;
+           box-sizing: border-box;
+       }
+       .about {
+           margin: 0;
+       }
+   }
+   @media only screen and (max-width: 480px) {
+   
+       /* speakers */
+       .speakers-item {
+           min-height: 70px;
+           padding-left: 70px;
+       }
+       .speaker-photo {
+           width: 50px;
+           height: 50px;
+       }
+       .speech-title {
+           padding-top: 0;
+           font-size: 16px;
+           margin-bottom: .3em;
+       }
+       .speech-time {
+           font-size: 16px;
+           padding: 0;
+       }
+       .speakers-bio {
+           display: none;
+       }
+   }
+   @media only screen and (max-width: 321px) {
+       .logo-name {
+           font-size: 4em;
+           margin-bottom: .4em;
+       }
     }
-    .about {
-        margin: 0;
-    }
-}
-
-@media only screen and (max-width: 480px) {
-
-    /* speakers */
-    .speakers-item {
-        min-height: 70px;
-        padding-left: 70px;
-    }
-    .speaker-photo {
-        width: 50px;
-        height: 50px;
-    }
-    .speech-title {
-        padding-top: 0;
-        font-size: 16px;
-        margin-bottom: .3em;
-    }
-    .speech-time {
-        font-size: 16px;
-        padding: 0;
-    }
-    .speakers-bio {
-        display: none;
-    }
-}
-
-/* =============================================================================
-   SPEAKER
-   ========================================================================== */
-.speaker-photo .photo {
-    border-radius: 50%;
-    box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.07);
-    -webkit-transition: all 0.3s ease-out;
-    -moz-transition: all 0.3s ease-out;
-    -ms-transition: all 0.3s ease-out;
-    -o-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-}
-.speakers-item:hover .speaker-photo .photo {
-    box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.3);
-}
-.speech-time {
-    color: #fff;
-    background: #2b2b2b;
-    border-radius: 8px;
-}
-
-/* =============================================================================
-   Media Queries
-   ========================================================================== */
-@media only screen and (max-width: 1024px) {
-    .header {
-        background-size: auto 100%;
-    }
-}
-@media only screen and (max-width: 480px) {
-    /* speakers */
-    .speaker-photo .photo {
-        box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.07);
-    }
-    .speech-title {
-        font-weight: bolder;
-    }
-    .speech-time {
-        color: #2b2b2b;
-        background: transparent;
-        font-weight: bolder;
-    }
-    .github-link {
-        display: none;
-    }
-}
+   
+   
+   /* =============================================================================
+      SPEAKER
+      ========================================================================== */
+   .speaker-photo .photo {
+       border-radius: 50%;
+       box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.07);
+       -webkit-transition: all 0.3s ease-out;
+       -moz-transition: all 0.3s ease-out;
+       -ms-transition: all 0.3s ease-out;
+       -o-transition: all 0.3s ease-out;
+       transition: all 0.3s ease-out;
+   }
+   .speakers-item:hover .speaker-photo .photo {
+       box-shadow: 0 0 0 8px rgba(0, 0, 0, 0.3);
+   }
+   .speech-time {
+       color: #fff;
+       background: #2b2b2b;
+       border-radius: 8px;
+   }
+   /* =============================================================================
+      Media Queries
+      ========================================================================== */
+   @media only screen and (max-width: 1024px) {
+       .header {
+           background-size: auto 100%;
+       }
+   }
+   @media only screen and (max-width: 480px) {
+       /* speakers */
+       .speaker-photo .photo {
+           box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.07);
+       }
+       .speech-title {
+           font-weight: bolder;
+       }
+       .speech-time {
+           color: #2b2b2b;
+           background: transparent;
+           font-weight: bolder;
+       }
+       .github-link {
+           display: none;
+       }
+   }
