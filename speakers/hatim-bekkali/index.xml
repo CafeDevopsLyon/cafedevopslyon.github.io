@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Café DevOps Lyon</title>
+    <link>https://cafedevops.org/speakers/hatim-bekkali/</link>
+    <description>Recent content on Café DevOps Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Thu, 07 Feb 2019 19:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://cafedevops.org/speakers/hatim-bekkali/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conférence-atelier sur les &#34;Tests dans Devops&#34;</title>
+      <link>https://cafedevops.org/posts/conference-atelier_sur_les_tests_dans_devops/</link>
+      <pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/posts/conference-atelier_sur_les_tests_dans_devops/</guid>
+      <description>Pour cette première, Hatim Bekkali et Christophe Monnier nous présenterons les tests dans Devops, et nous aurons le plaisir d&amp;rsquo;être accueilli dans les locaux de Link Value.
+Après la présentation, nous aurons l&amp;rsquo;occasion d&amp;rsquo;échanger autour d&amp;rsquo;un verre pour ceux qui le souhaitent.</description>
+    </item>
+    
+  </channel>
+</rss>

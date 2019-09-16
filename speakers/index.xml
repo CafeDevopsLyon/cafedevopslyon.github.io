@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on Café DevOps Lyon</title>
+    <link>https://cafedevops.org/speakers/</link>
+    <description>Recent content in Speakers on Café DevOps Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Wed, 04 Sep 2019 19:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://cafedevops.org/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/mathieu-corbin/</link>
+      <pubDate>Wed, 04 Sep 2019 19:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/mathieu-corbin/</guid>
+      <description>Ingénieur système chez Exoscale
+Je m’intéresse à tout ce qui touche à l’administration système, l’automatisation, le déploiement et l’exploitation d’infrastructures robustes.
+J’aime expérimenter avec différents langages de programmation, technologies, techniques.
+Je suis aussi développeur, et si je le peux, je développe en Clojure.
+J’utilise exclusivement Linux depuis plusieurs années (mais découvrir *BSD est dans ma todo list). Mon éditeur par défaut est Emacs.
+J’ai travaillé plusieurs années en tant qu’administrateur système sur des problématiques de déploiement (automatisation de tous les aspects d’une infrastructure, déploiement continu des application…​), de monitoring et de gestion des logs, de systèmes distribués et d’architecture en général.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/pascal-martin/</link>
+      <pubDate>Mon, 13 May 2019 14:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/pascal-martin/</guid>
+      <description>DevOps chez M6 Web
+Je m&amp;rsquo;appelle Pascal MARTIN, je suis DevOps à Lyon, France.
+Je publie des articles en rapport avec le développement Web, PHP,
+Le Cloud, AWS et Kubernetes, sur mon blog .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/christophe-monnier/</link>
+      <pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/christophe-monnier/</guid>
+      <description>Consultant chez SmartView (conseil et formation) &amp;amp; SmartCode (projets Agile)
+Gérant de CHRYSALIS SARL
+Administrateur du GIE HELIOPOLE (I.T. Languedoc-R)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/hatim-bekkali/</link>
+      <pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/hatim-bekkali/</guid>
+      <description>Passionné de mathématiques durant toutes mes études supérieures, j&amp;rsquo;ai succombé à l&amp;rsquo;informatique en 1998 avec la découverte de Linux et l&amp;rsquo;esprit du logiciel libre m&amp;rsquo;a séduit. J&amp;rsquo;ai acquis depuis, une grande expérience des systèmes d’information complexes utilisant à la fois des logiciels libres et des solutions propriétaires. Responsable du Système d&amp;rsquo;information de la société SOAMAI pendant plus de 5 ans, j&amp;rsquo;ai quitté cette société suite à son rachat par ASG pour créer ma propre entreprise SYLOÉ en mars 2005.</description>
+    </item>
+    
+  </channel>
+</rss>

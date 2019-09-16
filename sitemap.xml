@@ -3,18 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cafedevops.org/speakers/mathieu-corbin/</loc>
+    <lastmod>2019-09-04T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cafedevops.org/</loc>
-    <priority>0</priority>
+    <lastmod>2019-09-04T19:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cafedevops.org/categories/</loc>
-    <priority>0</priority>
+    <loc>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</loc>
+    <lastmod>2019-09-04T19:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cafedevops.org/tags/</loc>
-    <priority>0</priority>
+    <loc>https://cafedevops.org/posts/</loc>
+    <lastmod>2019-09-04T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/speakers/</loc>
+    <lastmod>2019-09-04T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/speakers/pascal-martin/</loc>
+    <lastmod>2019-05-13T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/posts/migration-de-6play-vers-le-cloud_retour_dexperience/</loc>
+    <lastmod>2019-05-13T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/speakers/christophe-monnier/</loc>
+    <lastmod>2019-02-07T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/speakers/hatim-bekkali/</loc>
+    <lastmod>2019-02-07T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/posts/conference-atelier_sur_les_tests_dans_devops/</loc>
+    <lastmod>2019-02-07T19:00:00+02:00</lastmod>
   </url>
   
 </urlset>

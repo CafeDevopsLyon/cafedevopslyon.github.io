@@ -17,7 +17,7 @@
     <link rel="shortcut icon" href="https://cafedevops.org/img/Twitter-PP-1.png" type="image/x-icon">
     <link rel="apple-touch-icon" href="https://cafedevops.org/img/Twitter-PP-1.png">
 
-    <title>404 Page not found -- Café DevOps Lyon</title>
+    <title>Machines Virtuelles : Comment gérer vos images ? -- Café DevOps Lyon</title>
 
     
     <link href="https://cafedevops.org/css/bootstrap.min.css" rel="stylesheet">
@@ -72,35 +72,57 @@
 
 
     
-    <header class="intro-header" style="background-image: url('https://cafedevops.org/img/home-bg.jpg')">
-     <div class="container">
-       <div class="row">
-         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-           <div class="site-heading">
-             <h1>Café DevOps Lyon</h1>
-             <hr class="small">
-             <span class="subheading">Café DevOps Lyon</span>
-           </div>
-         </div>
-       </div>
-     </div>
+    
+    <header class="intro-header" style="background-image: url('https://cafedevops.org/img/post-bg.jpg')">
+    
     </header>
 
     
-    <div class="container">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="post-preview">
-          <p class="post-meta"><a href="https://cafedevops.org">Index</a>
-            <br />
-          </p>
+    <article>
+        <div class="container">
+          <div class="post-heading">
+            <h1>Machines Virtuelles : Comment gérer vos images ?</h1>
+          </div>
+            <div class=" lead row">
+              
+              <div class="lead col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <br>
+                <h4>Speakers:</h4>
+                    <a href="https://cafedevops.org/speakers/mathieu-corbin/">Mathieu Corbin</a>
+                  
+                
+                  <h4>Support pdf: <a href="https://cafedevops.org/pdf/machine_virtuelles.pdf" target="\_blank">Lien</a></h4>  
+
+<p>Bien qu&rsquo;aujourd&rsquo;hui beaucoup de gens utilisent le cloud, je trouve que l&rsquo;on entend assez peu parler de la<br />
+construction des images des machines virtuelles.<br />
+Pourtant, il est possible chez de nombreux cloud provider de déployer et d&rsquo;utiliser ses propres images.<br />
+Cela présente quelques avantages, comme le fait d&rsquo;utiliser l&rsquo;OS de son choix ou d&rsquo;avoir des images avec des logiciels préinstallés.<br />
+Après avoir présenté ces différents cas d&rsquo;usage, je parlerais de Packer, un outil d&rsquo;Hashicorp automatisant la construction d&rsquo;images.<br />
+Je présenterais son fonctionnement, et son intégration avec les différents cloud provider ou avec des outils comme qemu.<br />
+Je voudrais aussi présenter les différentes problématiques que l&rsquo;on peut rencontrer lorsque l&rsquo;on construit une image.</p>
+
+<p>Par exemple, il est possible de construire une image &ldquo;from scratch&rdquo; (en faisant une installation complète de l&rsquo;OS)<br />
+ou bien en partant d&rsquo;images préfabriquées (comme par exemple les images &ldquo;Cloud&rdquo; fournies par Debian, Ubuntu ou Red Hat).<br />
+Les deux techniques, que j&rsquo;expliquerais, ont chacunes des avantages et des inconvénients.<br />
+Je montrerais aussi comment configurer une image, comment utiliser des outils comme Cloud Init pour pouvoir s&rsquo;authentifier<br />
+sur la machine virtuelle lors de la phase de construction de l&rsquo;image,<br />
+et donnerais quelques conseils sur ce qu&rsquo;il faut vérifier pour fournir une image sécurisée.<br />
+Je présenterais également quelques cas un peu tordus que j&rsquo;ai dû gérer (comme par exemple construire des images UEFI)<br />
+et comment les résoudre. Je montrerais également comment intégrer le build d&rsquo;image dans Jenkins.</p>
+
+<p>Dans une seconde partie, je parlerais de comment tester les images. Chez Exoscale,<br />
+nous lançons un certain nombre de tests automatisés lorsqu&rsquo;une nouvelle image est créée<br />
+(nous testons par exemple si la migration &ldquo;en live&rdquo; d&rsquo;une machine virtuelle<br />
+utilisant cette image d&rsquo;un hyperviseur à un autre fonctionne correctement).<br />
+J&rsquo;aimerais présenter dans ce talk comment nous testons nos images<br />
+(un certain nombre de tests que nous réalisons peuvent s&rsquo;adapter à d&rsquo;autres contextes).</p>
+
+                  
+
+                </div>
+            </div>
         </div>
-        <div class="post-preview">
-          <p class="post-meta"><a href="https://cafedevops.org/posts/">Archives</a>
-            <br />
-          </p>
-        </div>
-      </div>
-    </div>
+    </article>
 
     <hr>
     

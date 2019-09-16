@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Café DevOps Lyon</title>
+    <link>https://cafedevops.org/speakers/mathieu-corbin/</link>
+    <description>Recent content on Café DevOps Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Wed, 04 Sep 2019 19:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://cafedevops.org/speakers/mathieu-corbin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machines Virtuelles : Comment gérer vos images ?</title>
+      <link>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</link>
+      <pubDate>Wed, 04 Sep 2019 19:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</guid>
+      <description>Support pdf: Lien Bien qu&amp;rsquo;aujourd&amp;rsquo;hui beaucoup de gens utilisent le cloud, je trouve que l&amp;rsquo;on entend assez peu parler de la
+construction des images des machines virtuelles.
+Pourtant, il est possible chez de nombreux cloud provider de déployer et d&amp;rsquo;utiliser ses propres images.
+Cela présente quelques avantages, comme le fait d&amp;rsquo;utiliser l&amp;rsquo;OS de son choix ou d&amp;rsquo;avoir des images avec des logiciels préinstallés.
+Après avoir présenté ces différents cas d&amp;rsquo;usage, je parlerais de Packer, un outil d&amp;rsquo;Hashicorp automatisant la construction d&amp;rsquo;images.</description>
+    </item>
+    
+  </channel>
+</rss>
