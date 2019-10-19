@@ -18,7 +18,8 @@
       <pubDate>Wed, 04 Sep 2019 19:00:00 +0200</pubDate>
       
       <guid>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</guid>
-      <description>Support pdf: Lien Bien qu&amp;rsquo;aujourd&amp;rsquo;hui beaucoup de gens utilisent le cloud, je trouve que l&amp;rsquo;on entend assez peu parler de la
+      <description>Support de présentation
+Bien qu&amp;rsquo;aujourd&amp;rsquo;hui beaucoup de gens utilisent le cloud, je trouve que l&amp;rsquo;on entend assez peu parler de la
 construction des images des machines virtuelles.
 Pourtant, il est possible chez de nombreux cloud provider de déployer et d&amp;rsquo;utiliser ses propres images.
 Cela présente quelques avantages, comme le fait d&amp;rsquo;utiliser l&amp;rsquo;OS de son choix ou d&amp;rsquo;avoir des images avec des logiciels préinstallés.

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Wed, 04 Sep 2019 19:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 11:53:38 +0200</lastBuildDate>
     
 	<atom:link href="https://cafedevops.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Performance Et Diagnostic - Méthodologie Et Outils</title>
+      <link>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</link>
+      <pubDate>Mon, 14 Oct 2019 11:53:38 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</guid>
+      <description>Support de présentation
+le support est sous licence Creative Commons: - Signature de l’auteur obligatoire. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence.  L&amp;rsquo;objectif est de donner les clés qui vont bien, en terme de méthodologie et d’outils, pour être capable de se débrouiller sur un dysfonctionnement important ou sur un problème de performance, avec un zoom spécifique sur l’outillage pour l’écosystème Java, du WIP sur Docker.</description>
+    </item>
     
     <item>
       <title>Machines Virtuelles : Comment gérer vos images ?</title>
@@ -18,7 +28,8 @@
       <pubDate>Wed, 04 Sep 2019 19:00:00 +0200</pubDate>
       
       <guid>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</guid>
-      <description>Support pdf: Lien Bien qu&amp;rsquo;aujourd&amp;rsquo;hui beaucoup de gens utilisent le cloud, je trouve que l&amp;rsquo;on entend assez peu parler de la
+      <description>Support de présentation
+Bien qu&amp;rsquo;aujourd&amp;rsquo;hui beaucoup de gens utilisent le cloud, je trouve que l&amp;rsquo;on entend assez peu parler de la
 construction des images des machines virtuelles.
 Pourtant, il est possible chez de nombreux cloud provider de déployer et d&amp;rsquo;utiliser ses propres images.
 Cela présente quelques avantages, comme le fait d&amp;rsquo;utiliser l&amp;rsquo;OS de son choix ou d&amp;rsquo;avoir des images avec des logiciels préinstallés.

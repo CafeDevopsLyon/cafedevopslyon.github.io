@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Wed, 04 Sep 2019 19:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 11:53:38 +0200</lastBuildDate>
     
 	<atom:link href="https://cafedevops.org/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/vladislav-pernin/</link>
+      <pubDate>Mon, 14 Oct 2019 11:53:38 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/vladislav-pernin/</guid>
+      <description>Directeur technique d&amp;rsquo;un des pôles de la DSI chez Enedis,
+pôle d&amp;rsquo;environ 1000 personnes sur Lyon et Paris. En charge de l&amp;rsquo;écosystème Linky,
+son pendant sur les compteurs industriels, la partie poste source, de l&amp;rsquo;IOT et quelques plus petits projets.
+A l&amp;rsquo;origine expert technique, architecte (Java, système distribué, bigdata, messaging, &amp;hellip;)
+avec une grosse sensibilité ops et pas mal d&amp;rsquo;affinités sur les sujet de troubleshooting et performance.</description>
+    </item>
     
     <item>
       <title></title>

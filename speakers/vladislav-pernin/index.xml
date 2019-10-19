@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Café DevOps Lyon</title>
+    <link>https://cafedevops.org/speakers/vladislav-pernin/</link>
+    <description>Recent content on Café DevOps Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 14 Oct 2019 11:53:38 +0200</lastBuildDate>
+    
+	<atom:link href="https://cafedevops.org/speakers/vladislav-pernin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Performance Et Diagnostic - Méthodologie Et Outils</title>
+      <link>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</link>
+      <pubDate>Mon, 14 Oct 2019 11:53:38 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</guid>
+      <description>Support de présentation
+le support est sous licence Creative Commons: - Signature de l’auteur obligatoire. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence.  L&amp;rsquo;objectif est de donner les clés qui vont bien, en terme de méthodologie et d’outils, pour être capable de se débrouiller sur un dysfonctionnement important ou sur un problème de performance, avec un zoom spécifique sur l’outillage pour l’écosystème Java, du WIP sur Docker.</description>
+    </item>
+    
+  </channel>
+</rss>
