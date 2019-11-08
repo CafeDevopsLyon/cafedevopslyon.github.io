@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cafedevops.org/speakers/louis-tournayre/</loc>
+    <lastmod>2019-11-07T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/</loc>
+    <lastmod>2019-11-07T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</loc>
+    <lastmod>2019-11-07T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/posts/</loc>
+    <lastmod>2019-11-07T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/speakers/</loc>
+    <lastmod>2019-11-07T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cafedevops.org/speakers/vladislav-pernin/</loc>
     <lastmod>2019-10-14T11:53:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cafedevops.org/</loc>
-    <lastmod>2019-10-14T11:53:38+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</loc>
-    <lastmod>2019-10-14T11:53:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cafedevops.org/posts/</loc>
-    <lastmod>2019-10-14T11:53:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cafedevops.org/speakers/</loc>
     <lastmod>2019-10-14T11:53:38+02:00</lastmod>
   </url>
   
