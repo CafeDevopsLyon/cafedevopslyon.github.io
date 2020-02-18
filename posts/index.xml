@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Thu, 07 Nov 2019 19:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 18:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://cafedevops.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Handling Kubernetes Resources Comment Gerer Ses Ressources Kubernetes</title>
+      <link>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</link>
+      <pubDate>Wed, 29 Jan 2020 18:00:00 +0100</pubDate>
+      
+      <guid>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</guid>
+      <description>Support de présentation
+Talk d’Olivier Boukili, Cloud &amp;amp; System Engineer REX sur l&amp;rsquo;utilisation de plusieurs outils, Terraform, Helm, Kustomize, Argocd et les raisons qui ont motivé leur adoption ou leur rejet.</description>
+    </item>
     
     <item>
       <title>Kubernetes, attention aux apprentis sorciers !</title>
