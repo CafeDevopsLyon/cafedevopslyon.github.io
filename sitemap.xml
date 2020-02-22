@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cafedevops.org/speakers/quentin-le-baron/</loc>
+    <lastmod>2020-02-21T18:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/speakers/thibault-lecoq/</loc>
+    <lastmod>2020-02-21T18:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/</loc>
+    <lastmod>2020-02-21T18:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</loc>
+    <lastmod>2020-02-21T18:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/posts/</loc>
+    <lastmod>2020-02-21T18:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/speakers/</loc>
+    <lastmod>2020-02-21T18:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cafedevops.org/speakers/olivier-boukili/</loc>
     <lastmod>2020-01-29T18:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cafedevops.org/</loc>
-    <lastmod>2020-01-29T18:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</loc>
-    <lastmod>2020-01-29T18:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cafedevops.org/posts/</loc>
-    <lastmod>2020-01-29T18:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cafedevops.org/speakers/</loc>
     <lastmod>2020-01-29T18:00:00+01:00</lastmod>
   </url>
   

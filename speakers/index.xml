@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Wed, 29 Jan 2020 18:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 18:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://cafedevops.org/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/quentin-le-baron/</link>
+      <pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/quentin-le-baron/</guid>
+      <description>Ingénieur DevOps chez Smile Open Source Solutions.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/thibault-lecoq/</link>
+      <pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/thibault-lecoq/</guid>
+      <description>Ingénieur DevOps chez OPEN.</description>
+    </item>
     
     <item>
       <title></title>
