@@ -19,10 +19,8 @@
       
       <guid>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</guid>
       <description>Support de présentation
-Prérequis : Avoir manipulé Ansible et les rôle Ansible.
-Le sujet de cette session sera de présenter dans une première partie l&amp;rsquo;outil Molecule, pourquoi et comment l&amp;rsquo;utiliser pour tester du code ansible (rôles, playbooks, modules, filters).
-Une démonstration de l&amp;rsquo;usage de molecule sur un role ansible viendra cloturer cette première partie.
-La deuxième partie sera axés sur notre retour d&amp;rsquo;expérience de comment nous avons intégré molecule dans l&amp;rsquo;écosystème du projet linky sur lequel nous travaillons aujourd&amp;rsquo;hui.</description>
+le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence.  Prérequis : Avoir manipulé Ansible et les rôle Ansible.
+Le sujet de cette session sera de présenter dans une première partie l&amp;rsquo;outil Molecule, pourquoi et comment l&amp;rsquo;utiliser pour tester du code ansible (rôles, playbooks, modules, filters).</description>
     </item>
     
   </channel>
