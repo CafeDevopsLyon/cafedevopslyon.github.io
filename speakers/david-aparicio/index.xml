@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Café DevOps Lyon</title>
+    <link>https://cafedevops.org/speakers/david-aparicio/</link>
+    <description>Recent content on Café DevOps Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://cafedevops.org/speakers/david-aparicio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IaaS (Interruption as a Sageness) #HugOps</title>
+      <link>https://cafedevops.org/posts/iaas_interruption_as_a_sageness_hugops/</link>
+      <pubDate>Tue, 12 Oct 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/posts/iaas_interruption_as_a_sageness_hugops/</guid>
+      <description>Support de présentation
+Description: Père Castor, raconte nous une histoire (d&amp;rsquo;OPS) L&#39;échec comme une source de connaissance. Pouvons-nous apprendre des erreurs des plus grands ? Nous allons, pour cela, faire la revue de quelques grands outages de la dernière décennie : Github, Google, Amazon, Facebook, Apple, Microsoft, Gitlab ou plus récemment Fastly À travers la lecture des post-mortems des incidents, nous analyserons la root cause, la mise en place de la remédiation, et en extraire des bonnes pratiques.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/remerciement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cafedevops.org/remerciement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

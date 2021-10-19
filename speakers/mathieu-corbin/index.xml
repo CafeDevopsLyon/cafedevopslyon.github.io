@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Café DevOps Lyon</title>
@@ -24,6 +24,15 @@ construction des images des machines virtuelles.
 Pourtant, il est possible chez de nombreux cloud provider de déployer et d&amp;rsquo;utiliser ses propres images.
 Cela présente quelques avantages, comme le fait d&amp;rsquo;utiliser l&amp;rsquo;OS de son choix ou d&amp;rsquo;avoir des images avec des logiciels préinstallés.
 Après avoir présenté ces différents cas d&amp;rsquo;usage, je parlerais de Packer, un outil d&amp;rsquo;Hashicorp automatisant la construction d&amp;rsquo;images.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/remerciement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cafedevops.org/remerciement/</guid>
+      <description></description>
     </item>
     
   </channel>

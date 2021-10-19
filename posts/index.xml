@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Café DevOps Lyon</title>
@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Fri, 21 Feb 2020 18:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://cafedevops.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IaaS (Interruption as a Sageness) #HugOps</title>
+      <link>https://cafedevops.org/posts/iaas_interruption_as_a_sageness_hugops/</link>
+      <pubDate>Tue, 12 Oct 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/posts/iaas_interruption_as_a_sageness_hugops/</guid>
+      <description>Support de présentation
+Description: Père Castor, raconte nous une histoire (d&amp;rsquo;OPS) L&#39;échec comme une source de connaissance. Pouvons-nous apprendre des erreurs des plus grands ? Nous allons, pour cela, faire la revue de quelques grands outages de la dernière décennie : Github, Google, Amazon, Facebook, Apple, Microsoft, Gitlab ou plus récemment Fastly À travers la lecture des post-mortems des incidents, nous analyserons la root cause, la mise en place de la remédiation, et en extraire des bonnes pratiques.</description>
+    </item>
     
     <item>
       <title>Molecule Full Tester of Your Ansible Needs</title>
@@ -19,7 +29,7 @@
       
       <guid>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</guid>
       <description>Support de présentation
-le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence.  Prérequis : Avoir manipulé Ansible et les rôle Ansible.
+le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence. Prérequis : Avoir manipulé Ansible et les rôle Ansible.
 Le sujet de cette session sera de présenter dans une première partie l&amp;rsquo;outil Molecule, pourquoi et comment l&amp;rsquo;utiliser pour tester du code ansible (rôles, playbooks, modules, filters).</description>
     </item>
     
@@ -29,8 +39,7 @@ Le sujet de cette session sera de présenter dans une première partie l&amp;rsq
       <pubDate>Wed, 29 Jan 2020 18:00:00 +0100</pubDate>
       
       <guid>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</guid>
-      <description>Support de présentation
-Talk d’Olivier Boukili, Cloud &amp;amp; System Engineer REX sur l&amp;rsquo;utilisation de plusieurs outils, Terraform, Helm, Kustomize, Argocd et les raisons qui ont motivé leur adoption ou leur rejet.</description>
+      <description>Support de présentationTalk d’Olivier Boukili, Cloud &amp;amp; System Engineer REX sur l&amp;rsquo;utilisation de plusieurs outils, Terraform, Helm, Kustomize, Argocd et les raisons qui ont motivé leur adoption ou leur rejet.</description>
     </item>
     
     <item>
@@ -51,7 +60,7 @@ L’objectif de cette présentation est de partager les zones à risques de kube
       
       <guid>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</guid>
       <description>Support de présentation
-le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence.  L&amp;rsquo;objectif est de donner les clés qui vont bien, en terme de méthodologie et d’outils, pour être capable de se débrouiller sur un dysfonctionnement important ou sur un problème de performance, avec un zoom spécifique sur l’outillage pour l’écosystème Java, du WIP sur Docker.</description>
+le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence. L&amp;rsquo;objectif est de donner les clés qui vont bien, en terme de méthodologie et d’outils, pour être capable de se débrouiller sur un dysfonctionnement important ou sur un problème de performance, avec un zoom spécifique sur l’outillage pour l’écosystème Java, du WIP sur Docker.</description>
     </item>
     
     <item>
@@ -84,8 +93,8 @@ Pendant cette conférence, vous découvrirez comment nous avons réalisé cette 
       <pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
       
       <guid>https://cafedevops.org/posts/conference-atelier_sur_les_tests_dans_devops/</guid>
-      <description>Pour cette première, Hatim Bekkali et Christophe Monnier nous présenterons les tests dans Devops, et nous aurons le plaisir d&amp;rsquo;être accueilli dans les locaux de Link Value.
-Après la présentation, nous aurons l&amp;rsquo;occasion d&amp;rsquo;échanger autour d&amp;rsquo;un verre pour ceux qui le souhaitent.</description>
+      <description>Pour cette première, Hatim Bekkali et Christophe Monnier nous présenterons les tests dans Devops, et nous aurons le plaisir d&#39;être accueilli dans les locaux de Link Value.
+Après la présentation, nous aurons l&amp;rsquo;occasion d&#39;échanger autour d&amp;rsquo;un verre pour ceux qui le souhaitent.</description>
     </item>
     
   </channel>

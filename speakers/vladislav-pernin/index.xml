@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Café DevOps Lyon</title>
@@ -19,7 +19,16 @@
       
       <guid>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</guid>
       <description>Support de présentation
-le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence.  L&amp;rsquo;objectif est de donner les clés qui vont bien, en terme de méthodologie et d’outils, pour être capable de se débrouiller sur un dysfonctionnement important ou sur un problème de performance, avec un zoom spécifique sur l’outillage pour l’écosystème Java, du WIP sur Docker.</description>
+le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence. L&amp;rsquo;objectif est de donner les clés qui vont bien, en terme de méthodologie et d’outils, pour être capable de se débrouiller sur un dysfonctionnement important ou sur un problème de performance, avec un zoom spécifique sur l’outillage pour l’écosystème Java, du WIP sur Docker.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/remerciement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cafedevops.org/remerciement/</guid>
+      <description></description>
     </item>
     
   </channel>

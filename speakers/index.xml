@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speakers on Café DevOps Lyon</title>
@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Fri, 21 Feb 2020 18:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://cafedevops.org/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/david-aparicio/</link>
+      <pubDate>Tue, 12 Oct 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/david-aparicio/</guid>
+      <description>Passionate engineer in Computer Science, graduated INSA Lyon 2014, after two years spent at UNICAMP in Brazil, actively participates in the community, through Meetups and conferences.
+His motto: “No developer is supposed to ignore security”.</description>
+    </item>
     
     <item>
       <title></title>
@@ -57,7 +67,7 @@ GDG Cloud IoT Lyon et du ScalaIO (en soirée) .</description>
       
       <guid>https://cafedevops.org/speakers/vladislav-pernin/</guid>
       <description>Directeur technique d&amp;rsquo;un des pôles de la DSI chez Enedis,
-pôle d&amp;rsquo;environ 1000 personnes sur Lyon et Paris. En charge de l&amp;rsquo;écosystème Linky,
+pôle d&amp;rsquo;environ 1000 personnes sur Lyon et Paris. En charge de l&#39;écosystème Linky,
 son pendant sur les compteurs industriels, la partie poste source, de l&amp;rsquo;IOT et quelques plus petits projets.
 A l&amp;rsquo;origine expert technique, architecte (Java, système distribué, bigdata, messaging, &amp;hellip;)
 avec une grosse sensibilité ops et pas mal d&amp;rsquo;affinités sur les sujet de troubleshooting et performance.</description>
