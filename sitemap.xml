@@ -28,6 +28,16 @@
   </url>
   
   <url>
+    <loc>https://cafedevops.org/speakers/louis-tournayre/</loc>
+    <lastmod>2021-10-09T17:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</loc>
+    <lastmod>2021-10-09T17:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cafedevops.org/speakers/quentin-le-baron/</loc>
     <lastmod>2020-02-21T18:00:00+01:00</lastmod>
   </url>
@@ -50,11 +60,6 @@
   <url>
     <loc>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</loc>
     <lastmod>2020-01-29T18:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cafedevops.org/speakers/louis-tournayre/</loc>
-    <lastmod>2019-11-07T19:00:00+02:00</lastmod>
   </url>
   
   <url>
