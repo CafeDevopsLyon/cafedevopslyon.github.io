@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://cafedevops.org/speakers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://cafedevops.org/speakers/louis-tournayre/</link>
+      <pubDate>Tue, 09 Nov 2021 17:00:00 +0200</pubDate>
+      
+      <guid>https://cafedevops.org/speakers/louis-tournayre/</guid>
+      <description>CDéveloppeur passionné &amp;amp; « DevOps » (à temps plein),
+DT @Zenika Lyon (en journée) et co organisateur du
+GDG Cloud IoT Lyon et du ScalaIO (en soirée) .</description>
+    </item>
     
     <item>
       <title></title>
@@ -20,17 +31,6 @@
       <guid>https://cafedevops.org/speakers/david-aparicio/</guid>
       <description>Passionate engineer in Computer Science, graduated INSA Lyon 2014, after two years spent at UNICAMP in Brazil, actively participates in the community, through Meetups and conferences.
 His motto: “No developer is supposed to ignore security”.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/louis-tournayre/</link>
-      <pubDate>Sat, 09 Oct 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/louis-tournayre/</guid>
-      <description>CDéveloppeur passionné &amp;amp; « DevOps » (à temps plein),
-DT @Zenika Lyon (en journée) et co organisateur du
-GDG Cloud IoT Lyon et du ScalaIO (en soirée) .</description>
     </item>
     
     <item>

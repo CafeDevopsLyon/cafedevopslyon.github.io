@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Sat, 09 Oct 2021 17:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://cafedevops.org/speakers/louis-tournayre/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Le GitOps dont vous êtes le héros</title>
       <link>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</link>
-      <pubDate>Sat, 09 Oct 2021 17:00:00 +0200</pubDate>
+      <pubDate>Tue, 09 Nov 2021 17:00:00 +0200</pubDate>
       
       <guid>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</guid>
       <description>Dans le vaste royaume de Kubernetes, notre application est en péril. Les bugs et les besoins utilisateurs non couverts sont en train d’épuiser la patience du métier. Les correctifs et nouvelles fonctionnalités seront-ils déployés à temps pour sauver l’Application ? Si le processus de livraison ne s’améliore pas, les utilisateurs vont déserter l’Application et ce sera sa fin. À vous, public, de devenir le héros qui va sauver l’Application en embrassant la voie du GitOps.</description>
