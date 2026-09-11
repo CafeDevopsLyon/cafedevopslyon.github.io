@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Café DevOps Lyon</title>
+		<link>https://cafedevops.org/speakers/cafer-dingil/</link>
+		<description>Recent content on Café DevOps Lyon</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+			<copyright>Code released under the Apache 2.0 license.</copyright>
+		
+		
+			<lastBuildDate>Thu, 17 Sep 2026 18:30:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://cafedevops.org/speakers/cafer-dingil/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apero Kube</title>
+				<link>https://cafedevops.org/posts/apero-kube/</link>
+				<pubDate>Thu, 17 Sep 2026 18:30:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/apero-kube/</guid>
+				<description>&lt;p&gt;Un conteneur malveillant s’est glissé dans le cluster… Saura-t-il échapper à la surveillance ? Et si Kubernetes pouvait ensuite automatiser lui-même la gestion de vos applications ?&lt;/p&gt;&#xA;&lt;p&gt;Pour cette nouvelle soirée Café DevOps, place à 2 talks techniques autour de Kubernetes. 🚀&lt;/p&gt;&#xA;&lt;p&gt;🎤 &lt;strong&gt;Talk 1 — Coupable ! Le procès d’un conteneur malveillant dans Kubernetes&lt;/strong&gt;&lt;br&gt;&#xA;Par &lt;a href=&#34;https://www.linkedin.com/in/paulalexandrechretien/&#34;&gt;Paul-Alexandre Chrétien&lt;/a&gt; — &lt;a href=&#34;https://www.hoppr.tech/&#34;&gt;HoppR&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le crime était presque parfait : une image vulnérable, un Pod suspect et un cluster qui pourrait bien laisser passer l’intrus…&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/remerciement/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cafedevops.org/remerciement/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

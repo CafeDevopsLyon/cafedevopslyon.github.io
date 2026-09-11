@@ -1,45 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Café DevOps Lyon</title>
-    <link>https://cafedevops.org/speakers/louis-tournayre/</link>
-    <description>Recent content on Café DevOps Lyon</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Tue, 09 Nov 2021 17:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://cafedevops.org/speakers/louis-tournayre/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Le GitOps dont vous êtes le héros</title>
-      <link>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</link>
-      <pubDate>Tue, 09 Nov 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</guid>
-      <description>Dans le vaste royaume de Kubernetes, notre application est en péril. Les bugs et les besoins utilisateurs non couverts sont en train d’épuiser la patience du métier. Les correctifs et nouvelles fonctionnalités seront-ils déployés à temps pour sauver l’Application ? Si le processus de livraison ne s’améliore pas, les utilisateurs vont déserter l’Application et ce sera sa fin. À vous, public, de devenir le héros qui va sauver l’Application en embrassant la voie du GitOps.</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes, attention aux apprentis sorciers !</title>
-      <link>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</link>
-      <pubDate>Thu, 07 Nov 2019 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</guid>
-      <description>Support de présentation
-La promesse de kube est belle : Déployer et manager vos applications. Mais est-ce réellement si simple ? Dans cette présentation je vous partagerai 5 points qui me semblent importants avant de basculer sous K8S
-L’objectif de cette présentation est de partager les zones à risques de kubernetes et de répondre à ces deux importantes questions : – Pourquoi et dans quels cas l’utiliser ? – Qu’est-ce que cela coûte ?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/remerciement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cafedevops.org/remerciement/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Café DevOps Lyon</title>
+		<link>https://cafedevops.org/speakers/louis-tournayre/</link>
+		<description>Recent content on Café DevOps Lyon</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+			<copyright>Code released under the Apache 2.0 license.</copyright>
+		
+		
+			<lastBuildDate>Tue, 09 Nov 2021 17:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://cafedevops.org/speakers/louis-tournayre/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Le GitOps dont vous êtes le héros</title>
+				<link>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</link>
+				<pubDate>Tue, 09 Nov 2021 17:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</guid>
+				<description>&lt;p&gt;Dans le vaste royaume de Kubernetes, notre application est en péril. Les bugs et les besoins utilisateurs non couverts sont en train d’épuiser la patience du métier. Les correctifs et nouvelles fonctionnalités seront-ils déployés à temps pour sauver l’Application ? Si le processus de livraison ne s’améliore pas, les utilisateurs vont déserter l’Application et ce sera sa fin.&#xA;À vous, public, de devenir le héros qui va sauver l’Application en embrassant la voie du GitOps.&#xA;Cette présentation aventure sera interactive ! Vos choix vous permettront d’arriver ou pas en production dans les temps. Dans ce premier tome de cette saga, vous allez apprendre ce qu’est GitOps, vous choisirez votre solution et la mettrez en œuvre. Préparez-vous à des démonstrations basées sur vos choix, vous apprendrez de vos erreurs comme de vos succès, et peut être arriverez vous à temps en production.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kubernetes, attention aux apprentis sorciers !</title>
+				<link>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</link>
+				<pubDate>Thu, 07 Nov 2019 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://cafedevops.org/pdf/Kubernetes_attention_aux_apprentis_magiciens.pdf&#34;&gt;Support de présentation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;La promesse de kube est belle : Déployer et manager vos applications. Mais est-ce réellement si simple ?&#xA;Dans cette présentation je vous partagerai 5 points qui me semblent importants avant de basculer sous K8S&lt;/p&gt;&#xA;&lt;p&gt;L’objectif de cette présentation est de partager les zones à risques de kubernetes et de répondre à ces deux importantes questions :&#xA;– Pourquoi et dans quels cas l’utiliser ?&#xA;– Qu’est-ce que cela coûte ?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/remerciement/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cafedevops.org/remerciement/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

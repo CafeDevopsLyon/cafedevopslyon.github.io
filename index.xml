@@ -1,110 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Café DevOps Lyon</title>
-    <link>https://cafedevops.org/</link>
-    <description>Recent content on Café DevOps Lyon</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Tue, 09 Nov 2021 17:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://cafedevops.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Le GitOps dont vous êtes le héros</title>
-      <link>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</link>
-      <pubDate>Tue, 09 Nov 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</guid>
-      <description>Dans le vaste royaume de Kubernetes, notre application est en péril. Les bugs et les besoins utilisateurs non couverts sont en train d’épuiser la patience du métier. Les correctifs et nouvelles fonctionnalités seront-ils déployés à temps pour sauver l’Application ? Si le processus de livraison ne s’améliore pas, les utilisateurs vont déserter l’Application et ce sera sa fin. À vous, public, de devenir le héros qui va sauver l’Application en embrassant la voie du GitOps.</description>
-    </item>
-    
-    <item>
-      <title>IaaS (Interruption as a Sageness) #HugOps</title>
-      <link>https://cafedevops.org/posts/iaas_interruption_as_a_sageness_hugops/</link>
-      <pubDate>Tue, 12 Oct 2021 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/iaas_interruption_as_a_sageness_hugops/</guid>
-      <description>Support de présentation
-Description: Père Castor, raconte nous une histoire (d&amp;rsquo;OPS) L&#39;échec comme une source de connaissance. Pouvons-nous apprendre des erreurs des plus grands ? Nous allons, pour cela, faire la revue de quelques grands outages de la dernière décennie : Github, Google, Amazon, Facebook, Apple, Microsoft, Gitlab ou plus récemment Fastly À travers la lecture des post-mortems des incidents, nous analyserons la root cause, la mise en place de la remédiation, et en extraire des bonnes pratiques.</description>
-    </item>
-    
-    <item>
-      <title>Molecule Full Tester of Your Ansible Needs</title>
-      <link>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</link>
-      <pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
-      
-      <guid>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</guid>
-      <description>Support de présentation
-le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence. Prérequis : Avoir manipulé Ansible et les rôle Ansible.
-Le sujet de cette session sera de présenter dans une première partie l&amp;rsquo;outil Molecule, pourquoi et comment l&amp;rsquo;utiliser pour tester du code ansible (rôles, playbooks, modules, filters).</description>
-    </item>
-    
-    <item>
-      <title>Handling Kubernetes Resources Comment Gerer Ses Ressources Kubernetes</title>
-      <link>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</link>
-      <pubDate>Wed, 29 Jan 2020 18:00:00 +0100</pubDate>
-      
-      <guid>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</guid>
-      <description>Support de présentationTalk d’Olivier Boukili, Cloud &amp;amp; System Engineer REX sur l&amp;rsquo;utilisation de plusieurs outils, Terraform, Helm, Kustomize, Argocd et les raisons qui ont motivé leur adoption ou leur rejet.</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes, attention aux apprentis sorciers !</title>
-      <link>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</link>
-      <pubDate>Thu, 07 Nov 2019 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</guid>
-      <description>Support de présentation
-La promesse de kube est belle : Déployer et manager vos applications. Mais est-ce réellement si simple ? Dans cette présentation je vous partagerai 5 points qui me semblent importants avant de basculer sous K8S
-L’objectif de cette présentation est de partager les zones à risques de kubernetes et de répondre à ces deux importantes questions : – Pourquoi et dans quels cas l’utiliser ? – Qu’est-ce que cela coûte ?</description>
-    </item>
-    
-    <item>
-      <title>Performance Et Diagnostic - Méthodologie Et Outils</title>
-      <link>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</link>
-      <pubDate>Mon, 14 Oct 2019 11:53:38 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</guid>
-      <description>Support de présentation
-le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence. L&amp;rsquo;objectif est de donner les clés qui vont bien, en terme de méthodologie et d’outils, pour être capable de se débrouiller sur un dysfonctionnement important ou sur un problème de performance, avec un zoom spécifique sur l’outillage pour l’écosystème Java, du WIP sur Docker.</description>
-    </item>
-    
-    <item>
-      <title>Machines Virtuelles : Comment gérer vos images ?</title>
-      <link>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</link>
-      <pubDate>Wed, 04 Sep 2019 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</guid>
-      <description>Support de présentation
-Bien qu&amp;rsquo;aujourd&amp;rsquo;hui beaucoup de gens utilisent le cloud, je trouve que l&amp;rsquo;on entend assez peu parler de la
-construction des images des machines virtuelles.
-Pourtant, il est possible chez de nombreux cloud provider de déployer et d&amp;rsquo;utiliser ses propres images.
-Cela présente quelques avantages, comme le fait d&amp;rsquo;utiliser l&amp;rsquo;OS de son choix ou d&amp;rsquo;avoir des images avec des logiciels préinstallés.
-Après avoir présenté ces différents cas d&amp;rsquo;usage, je parlerais de Packer, un outil d&amp;rsquo;Hashicorp automatisant la construction d&amp;rsquo;images.</description>
-    </item>
-    
-    <item>
-      <title>Migration de 6play vers le Cloud, retour d&#39;expérience</title>
-      <link>https://cafedevops.org/posts/migration-de-6play-vers-le-cloud_retour_dexperience/</link>
-      <pubDate>Mon, 13 May 2019 14:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/migration-de-6play-vers-le-cloud_retour_dexperience/</guid>
-      <description>En 2018, nous avons entamé la migration de la plateforme 6play vers Le Cloud. À présent, nous pilotons notre infrastructure AWS avec Terraform, utilisons des services managés et déployons nos applications sous Kubernetes.
-Pendant cette conférence, vous découvrirez comment nous avons réalisé cette migration. Vous trouverez des réponses aux questions que vous vous posez si vous envisagez de revoir votre hébergement. Comment avons-nous transformé notre infrastructure ? Quels impacts sur nos projets ?</description>
-    </item>
-    
-    <item>
-      <title>Conférence-atelier sur les &#34;Tests dans Devops&#34;</title>
-      <link>https://cafedevops.org/posts/conference-atelier_sur_les_tests_dans_devops/</link>
-      <pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/posts/conference-atelier_sur_les_tests_dans_devops/</guid>
-      <description>Pour cette première, Hatim Bekkali et Christophe Monnier nous présenterons les tests dans Devops, et nous aurons le plaisir d&#39;être accueilli dans les locaux de Link Value.
-Après la présentation, nous aurons l&amp;rsquo;occasion d&#39;échanger autour d&amp;rsquo;un verre pour ceux qui le souhaitent.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Café DevOps Lyon</title>
+		<link>https://cafedevops.org/</link>
+		<description>Recent content on Café DevOps Lyon</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+			<copyright>Code released under the Apache 2.0 license.</copyright>
+		
+		
+			<lastBuildDate>Thu, 17 Sep 2026 18:30:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://cafedevops.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apero Kube</title>
+				<link>https://cafedevops.org/posts/apero-kube/</link>
+				<pubDate>Thu, 17 Sep 2026 18:30:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/apero-kube/</guid>
+				<description>&lt;p&gt;Un conteneur malveillant s’est glissé dans le cluster… Saura-t-il échapper à la surveillance ? Et si Kubernetes pouvait ensuite automatiser lui-même la gestion de vos applications ?&lt;/p&gt;&#xA;&lt;p&gt;Pour cette nouvelle soirée Café DevOps, place à 2 talks techniques autour de Kubernetes. 🚀&lt;/p&gt;&#xA;&lt;p&gt;🎤 &lt;strong&gt;Talk 1 — Coupable ! Le procès d’un conteneur malveillant dans Kubernetes&lt;/strong&gt;&lt;br&gt;&#xA;Par &lt;a href=&#34;https://www.linkedin.com/in/paulalexandrechretien/&#34;&gt;Paul-Alexandre Chrétien&lt;/a&gt; — &lt;a href=&#34;https://www.hoppr.tech/&#34;&gt;HoppR&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le crime était presque parfait : une image vulnérable, un Pod suspect et un cluster qui pourrait bien laisser passer l’intrus…&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Le GitOps dont vous êtes le héros</title>
+				<link>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</link>
+				<pubDate>Tue, 09 Nov 2021 17:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/le_gitops_dont_vous_etes_le_heros/</guid>
+				<description>&lt;p&gt;Dans le vaste royaume de Kubernetes, notre application est en péril. Les bugs et les besoins utilisateurs non couverts sont en train d’épuiser la patience du métier. Les correctifs et nouvelles fonctionnalités seront-ils déployés à temps pour sauver l’Application ? Si le processus de livraison ne s’améliore pas, les utilisateurs vont déserter l’Application et ce sera sa fin.&#xA;À vous, public, de devenir le héros qui va sauver l’Application en embrassant la voie du GitOps.&#xA;Cette présentation aventure sera interactive ! Vos choix vous permettront d’arriver ou pas en production dans les temps. Dans ce premier tome de cette saga, vous allez apprendre ce qu’est GitOps, vous choisirez votre solution et la mettrez en œuvre. Préparez-vous à des démonstrations basées sur vos choix, vous apprendrez de vos erreurs comme de vos succès, et peut être arriverez vous à temps en production.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IaaS (Interruption as a Sageness) #HugOps</title>
+				<link>https://cafedevops.org/posts/iaas_interruption_as_a_sageness_hugops/</link>
+				<pubDate>Tue, 12 Oct 2021 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/iaas_interruption_as_a_sageness_hugops/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://cafedevops.org/pdf/CafeDevOps2021_IaaS.pdf&#34;&gt;Support de présentation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Description:&#xA;Père Castor, raconte nous une histoire (d&amp;rsquo;OPS)&#xA;L&amp;rsquo;échec comme une source de connaissance. Pouvons-nous apprendre des erreurs des plus grands ?&#xA;Nous allons, pour cela, faire la revue de quelques grands outages de la dernière décennie : Github, Google, Amazon, Facebook, Apple, Microsoft, Gitlab ou plus récemment Fastly À travers la lecture des post-mortems des incidents, nous analyserons la root cause, la mise en place de la remédiation, et en extraire des bonnes pratiques.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Molecule Full Tester of Your Ansible Needs</title>
+				<link>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</link>
+				<pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
+				<guid>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://cafedevops.org/pdf/Molecule_full_tester_of_your_need.pdf&#34;&gt;Support de présentation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;le support est sous licence Creative Commons:&#xA;- Citer l&amp;#39;auteur.&#xA;- Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&amp;#39;auteur.&#xA;- Partage de l’œuvre, avec obligation de rediffuser selon la même licence.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Prérequis : Avoir manipulé Ansible et les rôle Ansible.&lt;/p&gt;&#xA;&lt;p&gt;Le sujet de cette session sera de présenter dans une première partie l&amp;rsquo;outil Molecule, pourquoi et comment l&amp;rsquo;utiliser pour tester du code ansible (rôles, playbooks, modules, filters).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Handling Kubernetes Resources Comment Gerer Ses Ressources Kubernetes</title>
+				<link>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</link>
+				<pubDate>Wed, 29 Jan 2020 18:00:00 +0100</pubDate>
+				<guid>https://cafedevops.org/posts/handling-kubernetes-resources-comment-gerer-ses-ressources-kubernetes/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/olivierBOUKILI/handling-kubernetes-resources&#34;&gt;Support de présentation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Talk d’Olivier Boukili, Cloud &amp;amp; System Engineer&#xA;REX sur l&amp;rsquo;utilisation de plusieurs outils, Terraform, Helm, Kustomize, Argocd et les raisons qui ont motivé leur adoption ou leur rejet.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kubernetes, attention aux apprentis sorciers !</title>
+				<link>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</link>
+				<pubDate>Thu, 07 Nov 2019 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/kubernetes_attention_aux_apprentis_sorciers/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://cafedevops.org/pdf/Kubernetes_attention_aux_apprentis_magiciens.pdf&#34;&gt;Support de présentation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;La promesse de kube est belle : Déployer et manager vos applications. Mais est-ce réellement si simple ?&#xA;Dans cette présentation je vous partagerai 5 points qui me semblent importants avant de basculer sous K8S&lt;/p&gt;&#xA;&lt;p&gt;L’objectif de cette présentation est de partager les zones à risques de kubernetes et de répondre à ces deux importantes questions :&#xA;– Pourquoi et dans quels cas l’utiliser ?&#xA;– Qu’est-ce que cela coûte ?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Performance Et Diagnostic - Méthodologie Et Outils</title>
+				<link>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</link>
+				<pubDate>Mon, 14 Oct 2019 11:53:38 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/performance_et_diagnostic-m%C3%A9thodologie_et_outils/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://cafedevops.org/pdf/Methodologie_et_outils_diagnostic-cafe_devops_lyon.pdf&#34;&gt;Support de présentation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;le support est sous licence Creative Commons:&#xA;- Citer l&amp;#39;auteur.&#xA;- Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&amp;#39;auteur.&#xA;- Partage de l’œuvre, avec obligation de rediffuser selon la même licence.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;L&amp;rsquo;objectif est de donner les clés qui vont bien, en terme de méthodologie et d’outils, pour être capable de se débrouiller   sur un dysfonctionnement important ou sur un problème de performance, avec un zoom spécifique sur l’outillage pour l’écosystème Java, du WIP sur Docker.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Machines Virtuelles : Comment gérer vos images ?</title>
+				<link>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</link>
+				<pubDate>Wed, 04 Sep 2019 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/machines_virtuelles-comment_gerer_vos_images/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://cafedevops.org/pdf/CafeDevOps2021_IaaS.pdf&#34;&gt;Support de présentation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bien qu&amp;rsquo;aujourd&amp;rsquo;hui beaucoup de gens utilisent le cloud, je trouve que l&amp;rsquo;on entend assez peu parler de la&lt;br&gt;&#xA;construction des images des machines virtuelles.&lt;br&gt;&#xA;Pourtant, il est possible chez de nombreux cloud provider de déployer et d&amp;rsquo;utiliser ses propres images.&lt;br&gt;&#xA;Cela présente quelques avantages, comme le fait d&amp;rsquo;utiliser l&amp;rsquo;OS de son choix ou d&amp;rsquo;avoir des images avec des logiciels préinstallés.&lt;br&gt;&#xA;Après avoir présenté ces différents cas d&amp;rsquo;usage, je parlerais de Packer, un outil d&amp;rsquo;Hashicorp automatisant la construction d&amp;rsquo;images.&lt;br&gt;&#xA;Je présenterais son fonctionnement, et son intégration avec les différents cloud provider ou avec des outils comme qemu.&lt;br&gt;&#xA;Je voudrais aussi présenter les différentes problématiques que l&amp;rsquo;on peut rencontrer lorsque l&amp;rsquo;on construit une image.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Migration de 6play vers le Cloud, retour d&#39;expérience</title>
+				<link>https://cafedevops.org/posts/migration-de-6play-vers-le-cloud_retour_dexperience/</link>
+				<pubDate>Mon, 13 May 2019 14:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/migration-de-6play-vers-le-cloud_retour_dexperience/</guid>
+				<description>&lt;p&gt;En 2018, nous avons entamé la migration de la plateforme 6play vers Le Cloud. À présent, nous pilotons notre infrastructure AWS avec Terraform, utilisons des services managés et déployons nos applications sous Kubernetes.&lt;/p&gt;&#xA;&lt;p&gt;Pendant cette conférence, vous découvrirez comment nous avons réalisé cette migration. Vous trouverez des réponses aux questions que vous vous posez si vous envisagez de revoir votre hébergement. Comment avons-nous transformé notre infrastructure ? Quels impacts sur nos projets ? Comment nous sommes-nous organisés ? Quels choix avons-nous effectués tout au long du processus ? Qu’avons-nous appris, qu’avons-nous fait évoluer ? Comment nos équipes se répartissent-elles les tâches ? Avons-nous dû adapter nos applications PHP ? Quelles difficultés avons-nous rencontrées, quels compromis avons-nous acceptés et quelle route nous reste-t-il à parcourir ?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Conférence-atelier sur les &#34;Tests dans Devops&#34;</title>
+				<link>https://cafedevops.org/posts/conference-atelier_sur_les_tests_dans_devops/</link>
+				<pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/posts/conference-atelier_sur_les_tests_dans_devops/</guid>
+				<description>&lt;p&gt;Pour cette première, Hatim Bekkali et Christophe Monnier nous présenterons les tests dans Devops, et nous aurons le plaisir d&amp;rsquo;être accueilli dans les locaux de Link Value.&lt;/p&gt;&#xA;&lt;p&gt;Après la présentation, nous aurons l&amp;rsquo;occasion d&amp;rsquo;échanger autour d&amp;rsquo;un verre pour ceux qui le souhaitent.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

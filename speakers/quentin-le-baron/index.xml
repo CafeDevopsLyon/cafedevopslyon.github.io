@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Café DevOps Lyon</title>
-    <link>https://cafedevops.org/speakers/quentin-le-baron/</link>
-    <description>Recent content on Café DevOps Lyon</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Fri, 21 Feb 2020 18:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://cafedevops.org/speakers/quentin-le-baron/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Molecule Full Tester of Your Ansible Needs</title>
-      <link>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</link>
-      <pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
-      
-      <guid>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</guid>
-      <description>Support de présentation
-le support est sous licence Creative Commons: - Citer l&#39;auteur. - Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&#39;auteur. - Partage de l’œuvre, avec obligation de rediffuser selon la même licence. Prérequis : Avoir manipulé Ansible et les rôle Ansible.
-Le sujet de cette session sera de présenter dans une première partie l&amp;rsquo;outil Molecule, pourquoi et comment l&amp;rsquo;utiliser pour tester du code ansible (rôles, playbooks, modules, filters).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/remerciement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cafedevops.org/remerciement/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Café DevOps Lyon</title>
+		<link>https://cafedevops.org/speakers/quentin-le-baron/</link>
+		<description>Recent content on Café DevOps Lyon</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+			<copyright>Code released under the Apache 2.0 license.</copyright>
+		
+		
+			<lastBuildDate>Fri, 21 Feb 2020 18:00:00 +0100</lastBuildDate>
+		
+			<atom:link href="https://cafedevops.org/speakers/quentin-le-baron/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Molecule Full Tester of Your Ansible Needs</title>
+				<link>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</link>
+				<pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
+				<guid>https://cafedevops.org/posts/molecule-full-tester-of-your-ansible-needs/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://cafedevops.org/pdf/Molecule_full_tester_of_your_need.pdf&#34;&gt;Support de présentation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;le support est sous licence Creative Commons:&#xA;- Citer l&amp;#39;auteur.&#xA;- Interdiction de tirer un profit commercial de l’œuvre sans autorisation de l&amp;#39;auteur.&#xA;- Partage de l’œuvre, avec obligation de rediffuser selon la même licence.&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Prérequis : Avoir manipulé Ansible et les rôle Ansible.&lt;/p&gt;&#xA;&lt;p&gt;Le sujet de cette session sera de présenter dans une première partie l&amp;rsquo;outil Molecule, pourquoi et comment l&amp;rsquo;utiliser pour tester du code ansible (rôles, playbooks, modules, filters).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/remerciement/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cafedevops.org/remerciement/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

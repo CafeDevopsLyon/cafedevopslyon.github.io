@@ -1,123 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Speakers on Café DevOps Lyon</title>
-    <link>https://cafedevops.org/speakers/</link>
-    <description>Recent content in Speakers on Café DevOps Lyon</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <copyright>Code released under the Apache 2.0 license.</copyright>
-    <lastBuildDate>Tue, 09 Nov 2021 17:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://cafedevops.org/speakers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/louis-tournayre/</link>
-      <pubDate>Tue, 09 Nov 2021 17:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/louis-tournayre/</guid>
-      <description>CDéveloppeur passionné &amp;amp; « DevOps » (à temps plein),
-DT @Zenika Lyon (en journée) et co organisateur du
-GDG Cloud IoT Lyon et du ScalaIO (en soirée) .</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/david-aparicio/</link>
-      <pubDate>Tue, 12 Oct 2021 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/david-aparicio/</guid>
-      <description>Passionate engineer in Computer Science, graduated INSA Lyon 2014, after two years spent at UNICAMP in Brazil, actively participates in the community, through Meetups and conferences.
-His motto: “No developer is supposed to ignore security”.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/quentin-le-baron/</link>
-      <pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/quentin-le-baron/</guid>
-      <description>Ingénieur DevOps chez Smile Open Source Solutions.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/thibault-lecoq/</link>
-      <pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/thibault-lecoq/</guid>
-      <description>Ingénieur DevOps chez OPEN.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/olivier-boukili/</link>
-      <pubDate>Wed, 29 Jan 2020 18:00:00 +0100</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/olivier-boukili/</guid>
-      <description>Sysadmin / Cloud engineer</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/vladislav-pernin/</link>
-      <pubDate>Mon, 14 Oct 2019 11:53:38 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/vladislav-pernin/</guid>
-      <description>Directeur technique d&amp;rsquo;un des pôles de la DSI chez Enedis,
-pôle d&amp;rsquo;environ 1000 personnes sur Lyon et Paris. En charge de l&#39;écosystème Linky,
-son pendant sur les compteurs industriels, la partie poste source, de l&amp;rsquo;IOT et quelques plus petits projets.
-A l&amp;rsquo;origine expert technique, architecte (Java, système distribué, bigdata, messaging, &amp;hellip;)
-avec une grosse sensibilité ops et pas mal d&amp;rsquo;affinités sur les sujet de troubleshooting et performance.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/mathieu-corbin/</link>
-      <pubDate>Wed, 04 Sep 2019 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/mathieu-corbin/</guid>
-      <description>Ingénieur système chez Exoscale
-Je m’intéresse à tout ce qui touche à l’administration système, l’automatisation, le déploiement et l’exploitation d’infrastructures robustes.
-J’aime expérimenter avec différents langages de programmation, technologies, techniques.
-Je suis aussi développeur, et si je le peux, je développe en Clojure.
-J’utilise exclusivement Linux depuis plusieurs années (mais découvrir *BSD est dans ma todo list). Mon éditeur par défaut est Emacs.
-J’ai travaillé plusieurs années en tant qu’administrateur système sur des problématiques de déploiement (automatisation de tous les aspects d’une infrastructure, déploiement continu des application…​), de monitoring et de gestion des logs, de systèmes distribués et d’architecture en général.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/pascal-martin/</link>
-      <pubDate>Mon, 13 May 2019 14:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/pascal-martin/</guid>
-      <description>DevOps chez M6 Web
-Je m&amp;rsquo;appelle Pascal MARTIN, je suis DevOps à Lyon, France.
-Je publie des articles en rapport avec le développement Web, PHP,
-Le Cloud, AWS et Kubernetes, sur mon blog .</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/christophe-monnier/</link>
-      <pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/christophe-monnier/</guid>
-      <description>Consultant chez SmartView (conseil et formation) &amp;amp; SmartCode (projets Agile)
-Gérant de CHRYSALIS SARL
-Administrateur du GIE HELIOPOLE (I.T. Languedoc-R)</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cafedevops.org/speakers/hatim-bekkali/</link>
-      <pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
-      
-      <guid>https://cafedevops.org/speakers/hatim-bekkali/</guid>
-      <description>Passionné de mathématiques durant toutes mes études supérieures, j&amp;rsquo;ai succombé à l&amp;rsquo;informatique en 1998 avec la découverte de Linux et l&amp;rsquo;esprit du logiciel libre m&amp;rsquo;a séduit. J&amp;rsquo;ai acquis depuis, une grande expérience des systèmes d’information complexes utilisant à la fois des logiciels libres et des solutions propriétaires. Responsable du Système d&amp;rsquo;information de la société SOAMAI pendant plus de 5 ans, j&amp;rsquo;ai quitté cette société suite à son rachat par ASG pour créer ma propre entreprise SYLOÉ en mars 2005.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Speakers on Café DevOps Lyon</title>
+		<link>https://cafedevops.org/speakers/</link>
+		<description>Recent content in Speakers on Café DevOps Lyon</description>
+		<generator>Hugo</generator>
+		<language>fr-FR</language>
+		
+		
+		
+			<copyright>Code released under the Apache 2.0 license.</copyright>
+		
+		
+			<lastBuildDate>Thu, 17 Sep 2026 18:30:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://cafedevops.org/speakers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/cafer-dingil/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cafedevops.org/speakers/cafer-dingil/</guid>
+				<description>&lt;p&gt;Software engineer chez &lt;a href=&#34;https://www.evryg.com/fr&#34;&gt;Evryg&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/paul-alexandre-chretien/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cafedevops.org/speakers/paul-alexandre-chretien/</guid>
+				<description>&lt;p&gt;💻 Expert DevOps &amp;amp; SRE | Lead Tech | Organizer @ Cloud Nord&lt;br&gt;&#xA;⛅️ Spécialiste Cloud, Kubernetes, GitOps, ArgoCD, IaC&lt;br&gt;&#xA;🤝 Ouvert aux échanges techniques &amp;amp; retours d’expérience&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/louis-tournayre/</link>
+				<pubDate>Tue, 09 Nov 2021 17:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/speakers/louis-tournayre/</guid>
+				<description>&lt;p&gt;CDéveloppeur passionné &amp;amp; « DevOps » (à temps plein),&lt;br&gt;&#xA;DT @Zenika Lyon (en journée) et co organisateur du&lt;br&gt;&#xA;GDG Cloud IoT Lyon et du ScalaIO (en soirée) .&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/david-aparicio/</link>
+				<pubDate>Tue, 12 Oct 2021 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/speakers/david-aparicio/</guid>
+				<description>&lt;p&gt;Passionate engineer in Computer Science, graduated INSA Lyon 2014, after two years spent at UNICAMP in Brazil, actively participates in the community, through Meetups and conferences.&lt;/p&gt;&#xA;&lt;p&gt;His motto: “No developer is supposed to ignore security”.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/quentin-le-baron/</link>
+				<pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
+				<guid>https://cafedevops.org/speakers/quentin-le-baron/</guid>
+				<description>&lt;p&gt;Ingénieur DevOps chez Smile Open Source Solutions.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/thibault-lecoq/</link>
+				<pubDate>Fri, 21 Feb 2020 18:00:00 +0100</pubDate>
+				<guid>https://cafedevops.org/speakers/thibault-lecoq/</guid>
+				<description>&lt;p&gt;Ingénieur DevOps chez OPEN.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/olivier-boukili/</link>
+				<pubDate>Wed, 29 Jan 2020 18:00:00 +0100</pubDate>
+				<guid>https://cafedevops.org/speakers/olivier-boukili/</guid>
+				<description>&lt;p&gt;Sysadmin / Cloud engineer&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/vladislav-pernin/</link>
+				<pubDate>Mon, 14 Oct 2019 11:53:38 +0200</pubDate>
+				<guid>https://cafedevops.org/speakers/vladislav-pernin/</guid>
+				<description>&lt;p&gt;Directeur technique d&amp;rsquo;un des pôles de la DSI chez Enedis,&lt;br&gt;&#xA;pôle d&amp;rsquo;environ 1000 personnes sur Lyon et Paris. En charge de l&amp;rsquo;écosystème Linky,&lt;br&gt;&#xA;son pendant sur les compteurs industriels, la partie poste source, de l&amp;rsquo;IOT et quelques plus petits projets.&lt;/p&gt;&#xA;&lt;p&gt;A l&amp;rsquo;origine expert technique, architecte (Java, système distribué, bigdata, messaging, &amp;hellip;)&lt;br&gt;&#xA;avec une grosse sensibilité ops et pas mal d&amp;rsquo;affinités sur les sujet de troubleshooting et performance.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/mathieu-corbin/</link>
+				<pubDate>Wed, 04 Sep 2019 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/speakers/mathieu-corbin/</guid>
+				<description>&lt;p&gt;Ingénieur système chez Exoscale&lt;/p&gt;&#xA;&lt;p&gt;Je m’intéresse à tout ce qui touche à l’administration système, l’automatisation, le déploiement et l’exploitation d’infrastructures robustes.&lt;/p&gt;&#xA;&lt;p&gt;J’aime expérimenter avec différents langages de programmation, technologies, techniques.&lt;/p&gt;&#xA;&lt;p&gt;Je suis aussi développeur, et si je le peux, je développe en Clojure.&lt;/p&gt;&#xA;&lt;p&gt;J’utilise exclusivement Linux depuis plusieurs années (mais découvrir *BSD est dans ma todo list). Mon éditeur par défaut est Emacs.&lt;/p&gt;&#xA;&lt;p&gt;J’ai travaillé plusieurs années en tant qu’administrateur système sur des problématiques de déploiement (automatisation de tous les aspects d’une infrastructure, déploiement continu des application…​), de monitoring et de gestion des logs, de systèmes distribués et d’architecture en général.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/pascal-martin/</link>
+				<pubDate>Mon, 13 May 2019 14:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/speakers/pascal-martin/</guid>
+				<description>&lt;p&gt;DevOps chez M6 Web&lt;br&gt;&#xA;Je m&amp;rsquo;appelle Pascal MARTIN, je suis DevOps à Lyon, France.&lt;br&gt;&#xA;Je publie des articles en rapport avec le développement Web, PHP,&lt;br&gt;&#xA;Le Cloud, AWS et Kubernetes, sur &lt;a href=&#34;https://blog.pascal-martin.fr&#34;&gt;mon blog&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/christophe-monnier/</link>
+				<pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/speakers/christophe-monnier/</guid>
+				<description>&lt;p&gt;Consultant chez SmartView (conseil et formation) &amp;amp; SmartCode (projets Agile)&lt;br&gt;&#xA;Gérant de CHRYSALIS SARL&lt;br&gt;&#xA;Administrateur du GIE HELIOPOLE (I.T. Languedoc-R)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://cafedevops.org/speakers/hatim-bekkali/</link>
+				<pubDate>Thu, 07 Feb 2019 19:00:00 +0200</pubDate>
+				<guid>https://cafedevops.org/speakers/hatim-bekkali/</guid>
+				<description>&lt;p&gt;Passionné de mathématiques durant toutes mes études supérieures, j&amp;rsquo;ai succombé à l&amp;rsquo;informatique en 1998 avec la découverte de Linux et l&amp;rsquo;esprit du logiciel libre m&amp;rsquo;a séduit. J&amp;rsquo;ai acquis depuis, une grande expérience des systèmes d’information complexes utilisant à la fois des logiciels libres et des solutions propriétaires.&#xA;Responsable du Système d&amp;rsquo;information de la société SOAMAI pendant plus de 5 ans, j&amp;rsquo;ai quitté cette société suite à son rachat par ASG pour créer ma propre entreprise SYLOÉ en mars 2005.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
